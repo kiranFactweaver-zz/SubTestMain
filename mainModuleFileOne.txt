@@ -3,3 +3,6 @@
 
 	This is a main module file to test if it is tracked by sub module 
 
+
+This is an update to MainModule file one to test `checkout` command.
+
