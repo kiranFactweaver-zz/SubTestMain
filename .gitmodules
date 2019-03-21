@@ -1,3 +1,4 @@
 [submodule "testSubModule"]
 	path = testSubModule
 	url = https://github.com/kiranFactweaver/testSubModule.git
+	branch = dev
