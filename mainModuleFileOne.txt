@@ -6,3 +6,7 @@
 
 This is an update to MainModule file one to test `checkout` command.
 
+
+
+a new line is added 
+
